@@ -1,0 +1,6 @@
+__pycache__
+RepostBlockingBot.session
+configuration.yaml
+secrets.yaml
+logs
+.vscode
